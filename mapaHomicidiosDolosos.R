@@ -1,4 +1,4 @@
-# Crear mapa interactivo con crímenes del fuero común a nivel municipal
+# Crear mapa interactivo con la tasa de averiguaciones previas por homicidios dolosos
 # Autor: Jose González | www.jose-gonzalez.org
 
 # Descargar datos
